@@ -38,7 +38,7 @@ To use MultiFuncPro, follow these steps:
 
    ```
    ! ======= ! WELCOME TO 'MultiFuncPro' ! ======= !
-   There are many projects around us! In every project, what you see, you'll find here!!
+   There are many project arround us! Har Project me jo dikhta hai, Wo hamare project me milta hai!!
 
    Please choose any options
 
